@@ -2,6 +2,12 @@ package algorithms;
 
 import java.util.stream.IntStream;
 
+/**
+ * @author freakbelka
+ * <p>
+ * Challenge description:
+ * https://leetcode.com/problems/xor-operation-in-an-array/
+ */
 public class XOROperationInAnArray {
     public int xorOperation2(int n, int start) {
         int xor = start;
